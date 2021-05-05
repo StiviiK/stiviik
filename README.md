@@ -1,2 +1,10 @@
-### Nice to see you 👋
-I'm a Computer science student, Software and Cloud Engineer, Love Go and Docker, and a Kubernetes enthusiast 🐋
+<div align="center">
+
+<a href="https://github.com/jstrieb/github-stats">
+  
+![](https://raw.githubusercontent.com/stiviik/github_stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/StiviiK/github_stats/master/generated/languages.svg)
+
+</a>
+
+</div>

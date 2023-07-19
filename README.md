@@ -3,6 +3,7 @@ I'm a Kubernetes Expert, Golang enthusiast and a Software & DevOps Engineer @ [w
 
 ## Find me on the web 🌍
 - 🌐 Personal website on [https://stivik.me](https://stivik.me/)
+- <img src="https://github.com/StiviiK/stiviik/assets/8115642/cb210982-3307-4e9c-862a-23291b967ed4" alt="linkedin-logo" width="20" heigh="16"/> [LinkedIn](https://www.linkedin.com/in/skuerzeder/)
 
 ## 🎓 Certificates & Trainings
 

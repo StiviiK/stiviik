@@ -1,5 +1,31 @@
 # Hi, I'm Stefan 🙋‍♂️
-I'm a Kubernetes Expert, Golang enthusiast and a Software Engineer @ [NIMMSTA](https://nimmsta.com/)
+
+I specialize in Kubernetes, thrive on Golang, and work as a Software Engineer at [NIMMSTA](https://nimmsta.com/), where I play a pivotal role in software development projects and lead the design and maintenance of the underlying infrastructure. My focus lies in Infrastructure as Code (IaC), ensuring robust and scalable architectures to support our software solutions. I also champion Continuous Integration/Continuous Delivery (CI/CD) practices within the Amazon Web Services (AWS) ecosystem. Proficient in managing GitLab SaaS, I leverage its functionalities for streamlined development workflows.
+
+## Technical Skills Overview
+
+- **Languages:** Golang, C#/.NET, Java, Typescript / Javascript, Node.JS, SQL
+- **Cloud Platforms:** AWS (Amazon Web Services), Microsoft Azure
+- **Containerization & Orchestration:** Kubernetes, Docker, Azure Container Apps, Amazon Elastic Container Services, ... 
+- **CI/CD Tools:** GitLab CI/CD, Azure DevOps, GitOps (FluxCD)
+- **Infrastructure as Code (IaC):** Terraform, Azure Resource Manager Templates (ARM), Azure Bicep
+
+## Work Experience
+
+### Software Engineer, NIMMSTA
+- **Duration:** Dec 2023 - Present
+- **Location:** Munich, Bavaria, Germany (Hybrid)
+- 🚀 Playing a pivotal role in software development projects while leading the design and maintenance of the infrastructure using Infrastructure as Code principles.
+- 🔧 Championing Continuous Integration/Continuous Delivery (CI/CD) practices within the AWS environment.
+
+### Software and DevOps Engineer, white duck GmbH
+- **Duration:** Oct 2022 - Dec 2023 (1 year 3 months)
+- **Location:** Rosenheim, Bavaria, Germany
+- 🛠️ Participated heavily in the implementation and management of infrastructure using Kubernetes, Terraform, and other tools, supporting software development initiatives.
+- 💡 Ensured the reliability, scalability, and security of infrastructure components, facilitating seamless software deployment and operations.
+
+## Professional Philosophy
+As a technology enthusiast, I am dedicated to pushing the boundaries of innovation and driving impactful change through software development and infrastructure design. I believe in the power of collaboration, continuous learning, and building solutions that make a difference in the world.
 
 ## Find me on the web 🌍
 - 🌐 Personal website on [https://stivik.me](https://stivik.me/)

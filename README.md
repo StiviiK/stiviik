@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/skuerzeder" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I specialize in Kubernetes, thrive on Golang, and work as a Software Engineer at [NIMMSTA](https://nimmsta.com/), where I play a pivotal role in software development projects and lead the design and maintenance of the underlying infrastructure. My focus lies in Infrastructure as Code (IaC), ensuring robust and scalable architectures to support our software solutions. I also champion Continuous Integration/Continuous Delivery (CI/CD) practices within the Amazon Web Services (AWS) ecosystem. Proficient in managing GitLab SaaS, I leverage its functionalities for streamlined development workflows.</h3>**
+ **<h3 align="left">I specialize in Kubernetes, thrive on Golang, and work as a DevOps Engineer at [NIMMSTA](https://nimmsta.com/), where I play a pivotal role in software development projects and lead the design and maintenance of the underlying infrastructure. My focus lies in Infrastructure as Code (IaC), ensuring robust and scalable architectures to support our software solutions. I also champion Continuous Integration/Continuous Delivery (CI/CD) practices within the Amazon Web Services (AWS) ecosystem. Proficient in managing GitLab SaaS, I leverage its functionalities for streamlined development workflows.</h3>**
 
  **<h3 align="left">Skills</h3>**
 
@@ -23,9 +23,3 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stiviik&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=stiviik&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://paypal.me/stivik" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
